@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+function navigatingTo(args) {
+    console.log('gotcha');
+    var modal = './modal';
+    args.object.showModal(modal);
+}
+exports.navigatingTo = navigatingTo;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi1wYWdlLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsibWFpbi1wYWdlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUEsc0JBQTZCLElBQUk7SUFDN0IsT0FBTyxDQUFDLEdBQUcsQ0FBQyxRQUFRLENBQUMsQ0FBQTtJQUNyQixJQUFNLEtBQUssR0FBRyxTQUFTLENBQUE7SUFDdkIsSUFBSSxDQUFDLE1BQU0sQ0FBQyxTQUFTLENBQUMsS0FBSyxDQUFDLENBQUE7QUFDaEMsQ0FBQztBQUpELG9DQUlDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGZ1bmN0aW9uIG5hdmlnYXRpbmdUbyhhcmdzKSB7XG4gICAgY29uc29sZS5sb2coJ2dvdGNoYScpXG4gICAgY29uc3QgbW9kYWwgPSAnLi9tb2RhbCdcbiAgICBhcmdzLm9iamVjdC5zaG93TW9kYWwobW9kYWwpXG59Il19

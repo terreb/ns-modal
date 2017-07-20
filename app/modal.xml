@@ -1,0 +1,4 @@
+<StackLayout>
+    <Label text="I'm modal"/>
+    <Label text="I'm still modal"/>
+</StackLayout>
